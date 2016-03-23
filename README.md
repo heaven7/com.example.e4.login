@@ -1,5 +1,5 @@
 # com.example.e4.login
-Example for a Login Splash for a Eclipse RCP E4 App (Mars)
+Example for a login splash with Eclipse RCP E4 (Mars)
 
 Heavily inspired by [Lars Vogel] (http://www.vogella.com/tutorials/Eclipse4LifeCycle/article.html)
 ## Installation
